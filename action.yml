@@ -1,4 +1,4 @@
-name: 'check-cve'
+name: 'dependabot-slack'
 description: 'Send GitHub vulnerability alerts to multiple platforms like Slack, PagerDuty.'
 author: '@kunalnagar'
 inputs:
